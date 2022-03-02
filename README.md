@@ -1,1 +1,4 @@
 # Horiseon
+For this project we were tasked with altering the HTML and CSS codes using semantic elements for easier accessibility and readability of the webpage. I went about this by altering the orignal HTML option (div) to the appropriate semantic elements, such as header, section, article, nav, etc. Additionally the CSS also needed to match the HTML semantics by updating the original div within the CSS file to the appropriate and corresponding HTML semantics. Further the CSS was streamlined, by utilizing service, reducing necessary code for the website to function properly. 
+To assit in greater accessability with the website's contents, the images included on the webpage were provided with a brief description as to their contents. 
+<img width="1792" alt="Screen Shot 2022-03-01 at 5 13 14 PM" src="https://user-images.githubusercontent.com/99102822/156276233-02f1fb79-1ebb-4937-b6dc-57afd57a6d9f.png">
